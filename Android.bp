@@ -7,7 +7,7 @@ soong_namespace {
 
 cc_prebuilt_library_shared {
 	name: "libthermalclient",
-	owner: "motorola",
+	owner: "xiaomi",
 	strip: {
 		none: true,
 	},
